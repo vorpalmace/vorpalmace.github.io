@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: songzivong/dark-minima
 
 # Name of your site (displayed in the header)
 name: Vorpal Mace II
