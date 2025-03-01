@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-remote_theme: chrisrhymes/mere-blog-theme
+remote_theme: jekyll/minima
 
 # Name of your site (displayed in the header)
 name: Vorpal Mace II
