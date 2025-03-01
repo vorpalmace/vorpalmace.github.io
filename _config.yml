@@ -1,7 +1,9 @@
 #
 # This file contains configuration flags to customize your site
 #
-remote_theme: jekyll/minima@3cdd14d
+remote_theme: jekyll/minima # @3cdd14d
+minima:
+  skin: dark
 
 # Name of your site (displayed in the header)
 name: Vorpal Mace II
