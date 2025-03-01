@@ -3,6 +3,7 @@
 #
 # remote_theme: songzivong/dark-minima
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin : "dark"
 
 # Name of your site (displayed in the header)
 name: Vorpal Mace II
