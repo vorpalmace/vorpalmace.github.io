@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: pages-themes/midnight@v0.2.0
 
 # Name of your site (displayed in the header)
 name: Vorpal Mace II
