@@ -1,7 +1,8 @@
 #
 # This file contains configuration flags to customize your site
 #
-remote_theme: songzivong/dark-minima
+# remote_theme: songzivong/dark-minima
+remote_theme: liamg/jekyll-theme-abysm
 
 # Name of your site (displayed in the header)
 name: Vorpal Mace II
