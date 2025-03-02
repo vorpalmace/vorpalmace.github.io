@@ -72,18 +72,19 @@ a {
   color: $blue;
   text-decoration: none;
 	cursor: pointer;
-  &:hover, &:active {
+  &:active {
     color: $dm-link-base-color;
+  }
+  &:visited {
+    color: $dm-link-visited-color;
+  }
+  &:hover {
+   color: $dm-link-hover-color;
   }
 }
 
-a:visited {
-  color: $dm-link-visited-color;
-}
 
-a:hover {
-   color: $dm-link-hover-color;
-}
+
 
 ul, ol {
   margin: 15px 0;
@@ -130,12 +131,12 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $dm-text-color;
-  background: $dm-brand-color-light;
+  color: $dm-selected-text-color;
+  background: $dm-selected-text-background;
 }
 ::selection {
-  color: $dm-text-color;
-  background: $dm-brand-color-light;
+  color: $dm-selected-text-color;
+  background: $dm-selected-text-background;
 }
 
 // Nicolas Gallagher's micro clearfix hack
