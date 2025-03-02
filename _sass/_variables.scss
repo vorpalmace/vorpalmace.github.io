@@ -3,21 +3,6 @@
 // VARIABLES
 //
 
-// Colors
-$blue: #4183C4;
-
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$silver: #c0c0c0;
-$white: #fff;
-$gainsboro: #dcdcdc;
-$dimGray: #696969;
-$whitesmoke: #f5f5f5;
-
 // Dark Mode Colors, based on minima dark style
 $dm-brand-color:           #999999 !default;
 $dm-brand-color-light:     lighten($dm-brand-color, 5%) !default;
@@ -33,7 +18,7 @@ $dm-code-background-color: #212121 !default;
 
 $dm-link-base-color:       #B8860B !default;
 $dm-link-visited-color:    $dm-link-base-color !default;
-$dm-link-hover-color:      $dm-text-color !default;
+$dm-link-hover-color:      darken($dm-link-base-color, 35%) !default;
 
 $dm-border-color-01:       $dm-brand-color-dark !default;
 $dm-border-color-02:       $dm-brand-color-light !default;
@@ -45,7 +30,7 @@ $dm-table-header-bg-color: lighten($dm-background-color, 10%) !default;
 $dm-table-header-border:   lighten($dm-background-color, 21%) !default;
 $dm-table-border-color:    $dm-border-color-01 !default;
 
-$dm-selected-text-color: #ffffff !default;
+$dm-selected-text-color: #bbbbbb !default;
 $dm-selected-text-background: #00008b !default;
 
 
