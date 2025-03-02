@@ -18,7 +18,7 @@ $dm-code-background-color: #212121 !default;
 
 $dm-link-base-color:       #B8860B !default;
 $dm-link-visited-color:    $dm-link-base-color !default;
-$dm-link-hover-color:      darken($dm-link-base-color, 35%) !default;
+$dm-link-hover-color:      darken($dm-link-base-color, 35%) !important;
 
 $dm-border-color-01:       $dm-brand-color-dark !default;
 $dm-border-color-02:       $dm-brand-color-light !default;
