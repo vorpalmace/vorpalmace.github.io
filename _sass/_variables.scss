@@ -43,6 +43,9 @@ $dm-table-header-bg-color: lighten($dm-background-color, 10%) !default;
 $dm-table-header-border:   lighten($dm-background-color, 21%) !default;
 $dm-table-border-color:    $dm-border-color-01 !default;
 
+$dm-selected-text-color: #ffffff !default;
+$dm-selected-text-background: #00008b !default;
+
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
