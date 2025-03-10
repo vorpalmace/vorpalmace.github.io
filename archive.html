@@ -1,10 +1,10 @@
----
+ ---
 layout: page
 title: "Post Archive"
 permalink: /archive.html
 ---
 <div>
-  Search through all of my posts by tag!
+  Are you looking for something?
 </div> </br>
 
 <div id="tags-list">
@@ -15,7 +15,7 @@ permalink: /archive.html
     <div id="#{{ tag_name | slugize }}"></div>
     <h3 class="post-list-heading line-bottom"> #{{ tag_name }}: </h3>
     <a name="{{ tag_name | slugize }}"></a>
-    <ul class="post-list post-list-narrow">
+    <ul>
      {% for post in site.tags[tag_name] %}
      <li>
        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
