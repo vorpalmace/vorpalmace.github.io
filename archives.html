@@ -1,7 +1,7 @@
  ---
 layout: page
-title: "Post Archive"
-permalink: /archive.html
+title: "Archives"
+permalink: /archives.html
 ---
 <div>
   Are you looking for something?
@@ -19,11 +19,9 @@ permalink: /archive.html
      {% for post in site.tags[tag_name] %}
      <li>
        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-       <b>
          <a href="{{ post.url | relative_url }}">
            {{ post.title | escape }}
-         </a>
-       </b> - <i>{{ post.date | date: date_format }}</i>
+         </a> - <span class="date">{{ post.date | date: date_format }}</span>
      </li>
      {% endfor %}
     </ul>
