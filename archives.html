@@ -21,7 +21,7 @@ permalink: /archives.html
        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
          <a href="{{ post.url | relative_url }}">
            {{ post.title | escape }}
-         </a> - <span>{{ post.date | date: date_format }}</span>
+         </a> - <span class="date">{{ post.date | date: date_format }}</span>
      </li>
      {% endfor %}
     </ul>
