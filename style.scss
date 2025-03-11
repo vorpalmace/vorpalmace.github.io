@@ -294,7 +294,7 @@ footer {
 
 // CommentBox color override
 .commentbox a, button {
-    color: #B8860B !important;
+    color: $dm-link-base-color !important;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
