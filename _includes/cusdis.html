@@ -26,6 +26,10 @@ This prevents Cusdis from appear everywhere-->
                 background: #181818;
                 color: #bbbbbb;
             }
+
+            .dark .dark\:text-gray-400 {
+                color: #626262;
+                }
             `;
         
           iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
