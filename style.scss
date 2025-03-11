@@ -297,6 +297,14 @@ footer {
     color: $dm-link-base-color !important;
 }
 
+.author-button {
+    color: $dm-link-base-color !important;
+}
+
+#commentbox .author-button {
+    color: $dm-link-base-color !important;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
