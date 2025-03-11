@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: $dm-link-base-color;
+  color: $dm-link-base-color !important;
   text-decoration: none;
 	cursor: pointer;
   &:active {
