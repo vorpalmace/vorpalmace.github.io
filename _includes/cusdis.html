@@ -21,14 +21,14 @@ This prevents Cusdis from appear everywhere-->
             let scrollHeight = iframe.contentWindow.document.body.scrollHeight;
             iframe.style.height = scrollHeight + "px";
 
-          const additionalStyles = `
-            .dark {
-                background: #181818 !important;
-                color: #bbbbbb !important;
-            }
-            `;
+          //const additionalStyles = `
+          //  .dark {
+          //      background: #181818 !important;
+          //      color: #bbbbbb !important;
+          //  }
+          //  `;
         
-          iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          //iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
         });
         observer.observe(iframe.contentWindow.document.body, { childList: true, subtree: true });
     }
