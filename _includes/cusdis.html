@@ -23,13 +23,9 @@ This prevents Cusdis from appear everywhere-->
 
           const additionalStyles = `
             .dark {
-                background: #181818;
-                color: #bbbbbb;
+                background: #181818 !important;
+                color: #bbbbbb !important;
             }
-
-            .dark .dark\:text-gray-400 {
-                color: #626262 !important;
-                }
             `;
         
           iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
