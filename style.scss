@@ -309,6 +309,12 @@ footer {
     font-size: 14px;
   }
 
+  #HCB_comment_box #hcb_form_email,
+  #HCB_comment_box #hcb_form_name,
+  #HCB_comment_box #hcb_form_website {
+    width: 200px;
+  }
+
 // Comment Text Color
   #HCB_comment_box blockquote {
     color: $dm-text-color;
