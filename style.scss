@@ -327,6 +327,14 @@ footer {
     color: $dm-text-color;
   }
 
+// Submit Button Color
+  #HCB_comment_box .inputfile {
+    background:none; /* Clear twitter bootstrap style. */
+    background-color: $dm-code-background-color;
+    border:1px solid $dm-code-background-color;
+    color: $dm-link-base-color;
+  }
+
 // Global text color
   #HCB_comment_box {
     color: $dm-text-color;
