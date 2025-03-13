@@ -328,12 +328,12 @@ footer {
   }
 
 // Submit Button Color
-  #HCB_comment_box .inputfile {
-    background:none; /* Clear twitter bootstrap style. */
-    background-color: $dm-code-background-color !important;
-    border:1px solid $dm-code-background-color !important;
-    color: $dm-link-base-color;
-  }
+//  #HCB_comment_box .inputfile {
+//    background:none; /* Clear twitter bootstrap style. */
+//    background-color: $dm-code-background-color !important;
+//    border:1px solid $dm-code-background-color !important;
+//    color: $dm-link-base-color;
+//  }
 
 #HCB_comment_box .btn-secondary {
     background-color: $dm-code-background-color !important;
@@ -345,6 +345,13 @@ footer {
     color: $dm-text-color;
   }
 
+// Like button color
 #HCB_comment_box .hcb-comment-tb button {
     color: $dm-link-base-color !important;
   }
+
+// Remove ad
+.home-desc {
+    display: none;
+    visibility: hidden;
+}
