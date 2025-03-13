@@ -344,3 +344,10 @@ footer {
   #HCB_comment_box {
     color: $dm-text-color;
   }
+
+.hcb-like .text-blur {
+    color: $dm-link-base-color;
+  }
+.hcb-like .text-focus {
+    color: $dm-link-hover-color;
+  }
