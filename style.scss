@@ -292,20 +292,44 @@ footer {
   text-align: center;
 }
 
-// CommentBox color override
-.selected {
-    color: $dm-link-base-color !important;
-}
-
-.author-button {
-    color: $dm-link-base-color !important;
-}
-
-#commentbox .author-button {
-    color: $dm-link-base-color !important;
-}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+// Comment Box Color
+  #HCB_comment_box #hcb_form_content,
+  #HCB_comment_box #hcb_form_email,
+  #HCB_comment_box #hcb_form_name,
+  #HCB_comment_box #hcb_form_website {
+    background-color: $dm-background-color;
+  }
+
+// Comment Text Color
+  #HCB_comment_box blockquote {
+    color: $dm-text-color;
+  }
+
+// Watermark text color
+  #HCB_comment_box .text-blur {
+    color: $dm-link-base-color;
+  }
+  #HCB_comment_box .text-focus {
+    color: $dm-link-hover-color;
+  }
+
+// Submit Button Color
+  #HCB_comment_box .submit {
+    background:none; /* Clear twitter bootstrap style. */
+    background-color: $dm-code-background-color;
+    border:1px solid $dm-code-background-color;
+    color: $dm-text-color;
+  }
+
+// Global text color
+  <style>
+  #HCB_comment_box {
+    color: $dm-text-color;
+  }
+  </style>
