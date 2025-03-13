@@ -85,4 +85,5 @@ exclude:
   - CNAME
 
 # staticman comments configuration
-staticman_url: https://vorpalmace-staticman-c2108fb4f297.herokuapp.com/v2/entry/vorpalmace/vorpalmace.github.io/master/comments
+# staticman_url: https://vorpalmace-staticman-c2108fb4f297.herokuapp.com/v2/entry/vorpalmace/vorpalmace.github.io/master/comments
+staticman_url: https://vorpalmace-staticman-c2108fb4f297.herokuapp.com/v3/entry/github/vorpalmace/vorpalmace.github.io/master/comments
