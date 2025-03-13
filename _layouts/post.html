@@ -29,4 +29,13 @@ layout: default
 
   {% include graphcomment.html %}
 
+  <br/>
+  <!-- Begin Comments -->
+{% if page.comments != false %}
+  <div id="comments">
+    {% include comments.html %}
+    </div>
+{% endif %}
+<!-- End Comments -->
+
 </article>
