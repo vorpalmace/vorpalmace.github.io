@@ -304,6 +304,9 @@ footer {
   #HCB_comment_box #hcb_form_name,
   #HCB_comment_box #hcb_form_website {
     background-color: $dm-background-color;
+    color: $dm-text-color;
+    padding: 8px;
+    font-size: 14px;
   }
 
 // Comment Text Color
@@ -328,13 +331,6 @@ footer {
   }
 
 // Submit Button Color
-//  #HCB_comment_box .inputfile {
-//    background:none; /* Clear twitter bootstrap style. */
-//    background-color: $dm-code-background-color !important;
-//    border:1px solid $dm-code-background-color !important;
-//    color: $dm-link-base-color;
-//  }
-
 #HCB_comment_box .btn-secondary {
     background-color: $dm-code-background-color !important;
     border:1px solid $dm-code-background-color !important;
