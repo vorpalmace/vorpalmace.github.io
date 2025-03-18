@@ -1,9 +1,9 @@
 .statiqueComments { margin:0 auto; display: flex; flex-direction: column; }
 .statiqueCommentList { flex: 1; overflow-y: auto; padding-bottom:10px; }
-.statiqueSingleComment { padding-top: 5px; padding-bottom: 10px; border-top: 1px solid #212121;}
+.statiqueSingleComment { padding-top: 5px; padding-bottom: 10px; border-top: 1px solid ##bbbbbb;}
 .statiqueCommentLabel { font-weight: bold; padding-top: 5px; padding-right: 5px; display: inline }
 .statiqueNewCommentHeader { font-weight: bold; margin-top: 10px; margin-bottom: 5px; }
 .statiqueComment { padding-top: 5px; padding-bottom: 10px; }
-.statiqueNewCommentContainer { border-top: 0px solid black; display: none; }
+.statiqueNewCommentContainer { border-top: 0px solid #bbbbbb; display: none; }
 input[type=text] { background-color: transparent !important; color: #bbbbbb !important; }
 #statiqueCommentContent { background-color: transparent !important; color: #bbbbbb !important; }
