@@ -5,5 +5,6 @@
 .statiqueNewCommentHeader { font-weight: bold; margin-top: 10px; margin-bottom: 5px; }
 .statiqueComment { padding-top: 5px; padding-bottom: 10px; }
 .statiqueNewCommentContainer { border-top: 1px solid black; display: none; }
-#statiqueUsermame { background-color: transparent !important; color: #bbbbbb !important; }
+#statiqueUsername { background-color: transparent !important; color: #bbbbbb !important; }
+input[type=text] { background-color: transparent !important; color: #bbbbbb !important; }
 #statiqueCommentContent { background-color: transparent !important; color: #bbbbbb !important; }
