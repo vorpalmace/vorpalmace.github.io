@@ -1,10 +1,12 @@
+@import "variables";
+
 :root {
   --waline-font-size: 1rem;
   --waline-white: #fff;
   --waline-light-grey: #999;
   --waline-dark-grey: #666;
-  --waline-theme-color: #27ae60;
-  --waline-active-color: #2ecc71;
+  --waline-theme-color: $dm-link-base-color;
+  --waline-active-color: $dm-link-hover-color;
   --waline-color: #444;
   --waline-bg-color: #fff;
   --waline-bg-color-light: #f8f8f8;
