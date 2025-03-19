@@ -363,3 +363,15 @@ footer {
 //    display: none;
 //    visibility: hidden;
 //}
+
+// Waline test
+:root {
+  /* Regular color */
+  //--waline-white: #fff;
+  //--waline-light-grey: #999;
+  //--waline-dark-grey: #666;
+
+  /* Theme Color */
+  --waline-theme-color: $dm-link-base-color;
+  --waline-active-color: $dm-link-hover-color;
+}
