@@ -292,8 +292,8 @@ footer {
   text-align: center;
 }
 
-  --waline-theme-color: $dm-link-base-color;
-  --waline-active-color: $dm-link-visited-color;
+  --waline-theme-color: $dm-link-base-color !important;
+  --waline-active-color: $dm-link-visited-color !important;
 
 
 // Waline colors
