@@ -16,8 +16,8 @@
   --waline-dark-grey: #666;
 
   /* Theme Color */
-  --waline-theme-color: $dm-link-base-color;
-  --waline-active-color: $dm-link-visited-color
+  --waline-theme-color: #B8860B;
+  --waline-active-color: #B8860B;
 
   /* Layout Color */
   --waline-color: #444;
