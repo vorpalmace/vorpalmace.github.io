@@ -5,8 +5,8 @@
   --waline-white: #fff;
   --waline-light-grey: #999;
   --waline-dark-grey: #666;
-  --waline-theme-color: $dm-link-base-color;
-  --waline-active-color: $dm-link-hover-color;
+  --waline-theme-color: #B8860B;
+  --waline-active-color: darken(#B8860B, 10%);
   --waline-color: #444;
   --waline-bg-color: #fff;
   --waline-bg-color-light: #f8f8f8;
