@@ -292,6 +292,10 @@ footer {
   text-align: center;
 }
 
+  --waline-theme-color: $dm-link-base-color;
+  --waline-active-color: $dm-link-visited-color;
+
+
 // Waline colors
 :root {
   /* Font Size */
@@ -303,8 +307,8 @@ footer {
   --waline-dark-grey: #666;
 
   /* Theme Color */
-  --waline-theme-color: $dm-link-base-color;
-  --waline-active-color: $dm-link-visited-color;
+  //--waline-theme-color: $dm-link-base-color;
+  //--waline-active-color: $dm-link-visited-color;
 
   /* Layout Color */
   --waline-color: #444;
