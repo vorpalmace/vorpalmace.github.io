@@ -1,5 +1,5 @@
 // Waline colors
-
+@import "variables";
 :root {
   /* Font Size */
   --waline-font-size: 16px;
