@@ -20,7 +20,7 @@ html {
 body {
   background: $dm-background-color;
   font: 18px/1.4 $helvetica;
-  color: $dm-text-color; 
+  color: $dm-text-color-dark; 
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $dm-text-color-light; 
+  color: $dm-text-color-dark; 
   font-weight: bold;
 
   line-height: 1.7;
