@@ -18,7 +18,7 @@ $dm-code-background-color: #212121 !default;
 
 $dm-link-base-color:       #B8860B !default;
 $dm-link-visited-color:    $dm-link-base-color !default;
-$dm-link-hover-color:      darken($dm-link-base-color, 20%) !important;
+$dm-link-hover-color:      darken($dm-link-base-color, 10%) !important; // 20%
 
 $dm-border-color-01:       $dm-brand-color-dark !default;
 $dm-border-color-02:       $dm-brand-color-light !default;
@@ -30,7 +30,7 @@ $dm-table-header-bg-color: lighten($dm-background-color, 10%) !default;
 $dm-table-header-border:   lighten($dm-background-color, 21%) !default;
 $dm-table-border-color:    $dm-border-color-01 !default;
 
-$dm-selected-text-color: $dm-text-color; // #bbbbbb !default;
+$dm-selected-text-color: $dm-text-color-dark; // #bbbbbb !default;
 $dm-selected-text-background: $dm-link-base-color; // #00008b !default;
 
 
