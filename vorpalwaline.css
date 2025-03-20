@@ -26,28 +26,6 @@
   --waline-box-shadow: none;
 }
 
-darkmode-selector {
-  /* Regular color */
-  --waline-white: #000;
-  --waline-light-grey: #666;
-  --waline-dark-grey: #999;
-
-  /* Layout color */
-  --waline-color: #888888;
-  --waline-bg-color: #1e1e1e;
-  --waline-bg-color-light: #272727;
-  --waline-border-color: #333;
-  --waline-disable-bg-color: #444;
-  --waline-disable-color: #272727;
-
-  /* Special color */
-  --waline-bq-color: #272727;
-
-  /* Other color */
-  --waline-info-bg-color: #272727;
-  --waline-info-color: #666;
-}
-
 [data-waline] {
   font-size: var(--waline-font-size);
   text-align: start;
@@ -60,7 +38,7 @@ darkmode-selector {
   line-height: 1.75;
 }
 [data-waline] p {
-  color: var(--waline-color);
+  color: var(--waline-color) !important;
 }
 [data-waline] a {
   position: relative;
