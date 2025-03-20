@@ -10,9 +10,9 @@ $dm-brand-color-dark:      darken($dm-brand-color, 35%) !default;
 
 $dm-site-title-color:      $dm-brand-color-light !default;
 
-$dm-text-color:            #444 !default;
-$dm-text-color-light:      #bbbbbb; //lighten($dm-text-color, 5%) !default;
-$dm-text-color-dark:       #888; //darken($dm-text-color, 35%) !default;
+$dm-text-color:            #bbbbbb !default;
+$dm-text-color-light:      lighten($dm-text-color, 5%) !default;
+$dm-text-color-dark:       darken($dm-text-color, 20%) !default;
 $dm-background-color:      #181818 !default;
 $dm-code-background-color: #212121 !default;
 
@@ -30,7 +30,7 @@ $dm-table-header-bg-color: lighten($dm-background-color, 10%) !default;
 $dm-table-header-border:   lighten($dm-background-color, 21%) !default;
 $dm-table-border-color:    $dm-border-color-01 !default;
 
-$dm-selected-text-color: #bbbbbb !default;
+$dm-selected-text-color: $dm-text-color-dark; // #bbbbbb !default;
 $dm-selected-text-background: #00008b !default;
 
 
