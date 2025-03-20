@@ -20,7 +20,7 @@ html {
 body {
   background: $dm-background-color;
   font: 18px/1.4 $helvetica;
-  color: $dm-text-color-dark; 
+  color: $dm-text-color; 
 }
 
 .container {
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $dm-text-color;
+  color: $dm-text-color-light;
 }
 
 p {
