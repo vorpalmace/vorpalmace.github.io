@@ -4,7 +4,7 @@
 # remote_theme: songzivong/dark-minima
 
 # Name of your site (displayed in the header)
-name: Vorpal Mace II
+name: Vorpal Mace ][
 
 # Short bio or description (displayed in the header)
 description: Gateway to another world
@@ -74,7 +74,6 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-remote-theme
 
 # Exclude these files from your production _site
 exclude:
