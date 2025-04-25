@@ -11,7 +11,7 @@ description: Gateway to another world
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/16955016?v=4
-logo: {{ site.baseurl }}/images/vorpal_mace_logo.png
+logo: https://vorpalmace.github.io/images/vorpal_mace_logo.png
 
 # Pagination
 paginate: 5
