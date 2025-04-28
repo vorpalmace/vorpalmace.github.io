@@ -4,7 +4,7 @@
 # remote_theme: songzivong/dark-minima
 
 # Name of your site (displayed in the header)
-name: Vorpal Mace ][
+name: Vorpal Mace II
 
 # Short bio or description (displayed in the header)
 description: Gateway to another world
@@ -24,7 +24,7 @@ paginate_path: "/page:num/"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: corvus870906@gmail.com
+  email: vorpalmace2@proton.me
   facebook: tamas.illes.739
   flickr:
   github:
