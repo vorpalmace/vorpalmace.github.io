@@ -6,6 +6,7 @@ published: true
 tags:
   - introduction
 ---
+<img src="https://vorpalmace.github.io/images/portals_of_torsh.jpg" alt="Gateway to another world" style="float: left; width: 30%; margin-right: 15px; border-radius: 50%"/>
 Welcome to the new and improved Vorpal Mace blog!
 
 Following a long break, I finally sat down to write a post on my [old blog](https://vorpalmace.blogspot.com/). I stared at Blogger's interface for a while, then said: "fuck this shit, it's time to move on". After exploring other options, I embraced my inner software developer and decided to cobble together my own trash heap using GitHub Pages.
