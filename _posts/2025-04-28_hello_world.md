@@ -4,7 +4,7 @@ date: '2025-04-27'
 layout: post
 tags: 
   - introduction
-published: false
+published: true
 ---
 Welcome to the new and improved Vorpal Mace blog!
 
