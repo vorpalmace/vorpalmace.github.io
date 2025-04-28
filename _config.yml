@@ -25,10 +25,10 @@ paginate_path: "/page:num/"
 footer-links:
   dribbble:
   email: corvus870906@gmail.com
-  facebook: https://www.facebook.com/tamas.illes.739/
+  facebook: tamas.illes.739
   flickr:
   github:
-  instagram: https://www.instagram.com/illestamas87/
+  instagram: illestamas87
   linkedin:
   pinterest:
   rss: https://vorpalmace.github.io/feed.xml # just type anything here for a working RSS icon
