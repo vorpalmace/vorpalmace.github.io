@@ -16,4 +16,4 @@ As for the old blog, it's here to stay. While I won't be posting new content the
 
 Fight On!
 
-[^1] I will link his portfolio once he gets his shit together and makes one. He knows how to make good maps, but alas, is constantly hindered by his ambition to make sense of Chivalry & Sorcery Red Book.
+[^1]: I will link his portfolio once he gets his shit together and makes one. He knows how to make good maps, but alas, is constantly hindered by his ambition to make sense of Chivalry & Sorcery Red Book.
