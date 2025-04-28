@@ -6,6 +6,7 @@ tags:
   - rpg
   - osr
 date: '2025-02-28'
+published: false
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
