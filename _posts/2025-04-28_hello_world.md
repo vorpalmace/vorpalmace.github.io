@@ -1,10 +1,10 @@
 ---
 title: Hello World
-date: '2025-04-27'
+date: '2025-04-28'
 layout: post
-tags: 
-  - introduction
 published: true
+tags:
+  - introduction
 ---
 Welcome to the new and improved Vorpal Mace blog!
 
