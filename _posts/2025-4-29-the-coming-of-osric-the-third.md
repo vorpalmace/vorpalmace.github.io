@@ -12,7 +12,10 @@ Mark your calendars for the 6th of May; that is the day when the [Backerkit camp
 
 One of the best things that happened to the OSR scene in recent years was Matt Finch’s breakup with Frog God Games[^1] and the glorious revival of Mythmere Games. All the classics they’ve revamped and all the new products they’ve released so far that I’ve seen have been top-notch[^2], and I have no doubt they will deliver again.
 
+<figure>
 <img src="https://vorpalmace.github.io/images/toad.jpg" alt="Tome of Adventure Design, an absolute fucking unit" style="display: block; width: 50%; margin-right: auto; margin-left: auto; text-align: center;"/>
+<figcaption>Tome of Adventure Design, an absolute fucking unit</figcaption>
+</figure>
 
 There is a neat summary on the [Mythmere Games website](https://www.mythmeregames.com/blogs/news/osric-3-0) about what to expect from the new edition. I don’t have anything to add other than that I’ve already read the first version of Whispers of the Death God, and it alone would be worth a crowdfunding campaign. So stay tuned, stay hyped, and I'll see you on the 6th!
 
