@@ -1,6 +1,6 @@
 ---
-title: The Coming of Osric the Third
-date: '2025-04-29'
+title: The Coming of Osric the Third (Updated)
+date: '2025-05-06'
 layout: post
 published: true
 tags:
