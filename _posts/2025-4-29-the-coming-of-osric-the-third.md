@@ -17,6 +17,8 @@ One of the best things that happened to the OSR scene in recent years was Matt F
 
 There is a neat summary on the [Mythmere Games website](https://www.mythmeregames.com/blogs/news/osric-3-0) about what to expect from the new edition. I don’t have anything to add other than that I’ve already read the first version of Whispers of the Death God, and it alone would be worth a crowdfunding campaign. So stay tuned, stay hyped, and I'll see you on the 6th!
 
+2025.05.06. Update: [It has begun!](https://www.backerkit.com/c/projects/mythmere-games/osric-3)
+
 [^1]: Who struggled so much with finding a new old-school platform that, in the end, they decided to release their own retroclone with blackjack and hookers.
 
 [^2]: I did not read some of the modules, though, and I firmly believe they dropped the ball when they halved the number of skeletons in Tomb of the Iron God’s skeleton barracks.
