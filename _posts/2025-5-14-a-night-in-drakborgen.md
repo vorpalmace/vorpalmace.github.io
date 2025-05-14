@@ -1,5 +1,5 @@
 ---
-title: Session Report: A Night in Drakborgen
+title: A Night in Drakborgen
 date: '2025-05-14'
 layout: post
 published: false
