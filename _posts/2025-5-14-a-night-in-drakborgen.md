@@ -1,6 +1,6 @@
 ---
 title: A Night in Drakborgen
-date: '2025-05-14'
+date: '2025-05-14 23:00'
 layout: post
 published: true
 tags:
