@@ -1,6 +1,6 @@
 ---
 title: The Majestic and the Magical
-date: '2025-06-03 22:15'
+date: '2025-06-03'
 layout: post
 published: true
 tags:
