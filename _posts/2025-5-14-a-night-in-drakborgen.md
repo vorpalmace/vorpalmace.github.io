@@ -24,8 +24,7 @@ The next door we checked out was burnt. We looked for traps but found none—ins
 We managed to get to a window, where we saw the sun was setting, so we decided to leave. We did kill the cooking troll on the way out, and looked into one literally bone-chilling room that we ended up leaving behind with a big “Nope!” after someone started cackling. We returned to the village, sold whatever we could, and walked off into the sunset.
 
 Overall, we had a good time and achieved a lot despite having only three and a half hours of playtime. Can’t wait to give Drakborgen a proper read finally.
-<br/>
-<br/>
+
 [^1]: I have written about its [beta](https://vorpalmace.blogspot.com/2022/12/preview-dragonbane-drakar-och-demoner.html) on the old blog, and I intend to write a full review in the near future. It’s a game that’s near and dear to me, but also one that annoys the hell out of me with some of its design decisions.
 
 [^2]: I will write about the module too once I read it cover to cover. I had to hide the book from myself because of the very session I’m writing about in this post.
