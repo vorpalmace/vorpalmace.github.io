@@ -63,7 +63,7 @@ The leveling process is more involved than rewriting a few numbers and jotting d
 
 HackMaster has elaborate rules for handling hirelings, henchmen, sidekicks, hangers-on. There are processes for hiring them, checking their loyalty, and figuring out how disgruntled NPCs take vengeance. The most interesting interaction with NPCs is patronage, though. The character can spend time mentoring an NPC, who will gain levels during the process. Once the character dies, the NPC turns into a fully-fledged PC who replaces their mentor. To sum it up: in HackMaster, if you want a backup PC, you must train it yourself.
 
-<img src="https://vorpalmace.github.io/images/hm_example.jpg" alt="How to explain your gameplay with style" style="width: 80%; margin-left: auto; margin-right:auto;"/>
+<img src="https://vorpalmace.github.io/images/hm_example.jpg" alt="How to explain your gameplay with style" style="width: 80%; display: block; margin-left: auto; margin-right:auto;"/>
 
 # Combat
 
