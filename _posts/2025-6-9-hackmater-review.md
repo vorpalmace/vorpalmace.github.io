@@ -63,7 +63,7 @@ The leveling process is more involved than rewriting a few numbers and jotting d
 
 HackMaster has elaborate rules for handling hirelings, henchmen, sidekicks, hangers-on. There are processes for hiring them, checking their loyalty, and figuring out how disgruntled NPCs take vengeance. The most interesting interaction with NPCs is patronage, though. The character can spend time mentoring an NPC, who will gain levels during the process. Once the character dies, the NPC turns into a fully-fledged PC who replaces their mentor. To sum it up: in HackMaster, if you want a backup PC, you must train it yourself.
 
-<img src="https://vorpalmace.github.io/images/hm_example.jpg" alt="How to explain your gameplay with style" style="width: 80%; display: block; margin-left: auto; margin-right:auto;"/>
+<img src="https://vorpalmace.github.io/images/hm_example.jpg" alt="How to explain your gameplay with style" style="width: 90%; display: block; margin-left: auto; margin-right:auto;"/>
 
 # Combat
 
@@ -81,7 +81,7 @@ Weapon length also matters. When engaging in melee, whoever has the longest weap
 
 I think that’s enough as an overview for combat. Both HMB and PH have cool KoDT strips that explains combat basics in great detail, though the one in the PHB needs some errata if my memory serves me right. The PH and the GMG also offer a good deal of advanced rules for those who want to count embedded arrows, calculate the momentum of charging opponents, or grapple with the most convoluted grappling rules ever[^20].
 
-<img src="https://vorpalmace.github.io/images/hm_efreet.jpg" alt="Cool efreet, too bad you didn't include them in HoB1" style="width: 80%; display: block; margin-left: auto; margin-right:auto;"/>
+<img src="https://vorpalmace.github.io/images/hm_efreet.jpg" alt="Cool efreet, too bad you didn't include them in HoB1" style="width: 90%; display: block; margin-left: auto; margin-right:auto;"/>
 
 # Magic
 
@@ -101,7 +101,7 @@ The GMG also provides sound guidelines for designing encounters, traps, scenario
 
 Running HackMaster needs significantly more focus and bookkeeping on the GM’s part than any edition of D&D. Crucial information being split between the PH and GMG doesn’t help with that. Kenzer & Co. and the fandom provided plenty of handouts, ref sheets, tools, and apps to make one’s life easier, and one shouldn’t shy away from using them. The learning curve is steep, but well worth the effort. After the first few sessions, running HackMaster felt like second nature to me.
 
-<img src="https://vorpalmace.github.io/images/hm_orc.jpg" alt="Finally, some good fucking evil pig-faced orc" style="width: 80%; display: block; margin-left: auto; margin-right:auto;"/>
+<img src="https://vorpalmace.github.io/images/hm_orc.jpg" alt="Finally, some good fucking evil pig-faced orc" style="width: 90%; display: block; margin-left: auto; margin-right:auto;"/>
 
 # Support
 
