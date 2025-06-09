@@ -120,8 +120,8 @@ Rating: <i class="fa-solid fa-skull"></i><i class="fa-solid fa-skull"></i><i cla
 The books are available at the [Kenzer & Co. website](https://kenzerco.com/) and on [DriveThruRPG](https://www.drivethrurpg.com/en/publisher/336/kenzer-company?affiliate_id=234913).
 
 *Disclaimer: The DriveThruRPG links on this site are affiliate links. If you buy something through the link, we’ll get some credit for your purchase too.*
-
-
+<br/>
+<br/>
 [^1]: He already proved that when Kenzer & Co. published their Kingdoms of Kalamar setting for AD&D without a license in the nineties. TSR didn’t want to touch them with a ten-foot pole.
 [^2]: The numbering followed the comic books. The first three editions don’t exist in print. Don’t look for them on eBay.
 [^3]: HackMaster players were butchering monsters for food, medicine, and components before Dungeon Meshi was a thing.
