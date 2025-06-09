@@ -2,7 +2,7 @@
 title: HackMaster Review
 date: '2025-06-09'
 layout: post
-published: false
+published: true
 tags:
   - review
   - hackmaster
