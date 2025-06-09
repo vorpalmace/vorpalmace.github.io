@@ -115,7 +115,7 @@ Knights of the Dinner Table still supports HackMaster in every issue with an NPC
 
 No matter its flaws, HackMaster is still a fucking a masterpiece. A lot of care, effort, and experience went into designing a game that continues AD&D’s heritage while also revolutionizing its mechanics. This is how AD&D should look in present days, with a huge emphasis on the “Advanced” part. It’s not a game for the faint of heart, for it is crunchy as fuck and asks you to let go of inferior mechanisms and bad habits you picked up during your time spent with other games. It’s well worth the effort to master HackMaster though, for it’s a deep and wide game with one of the most satisfying combat systems ever. I’ve been playing and running games for 26 years by now, and some of my best memories are related to the two HM campaigns I ran. I hope one day Kenzer & Co. get their mojo back and bring forth a glorious revival for the game. And I hope when this day comes, they will include stats for more polearms, because 19 isn’t enough for jackshit.
 
-<i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i>
+Rating: <i class="fa-solid fa-skull"></i><i class="fa-solid fa-skull"></i><i class="fa-solid fa-skull"></i><i class="fa-solid fa-skull"></i><i class="fa-solid fa-skull"></i>
 
 The books are available at the [Kenzer & Co. website](https://kenzerco.com/) and on [DriveThruRPG](https://www.drivethrurpg.com/en/publisher/336/kenzer-company?affiliate_id=234913).
 
