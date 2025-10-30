@@ -629,8 +629,6 @@
 .wl-card .wl-meta {
   position: relative;
   line-height: 1;
-  visibility: hidden !important;
-  display: none;
 }
 .wl-card .wl-meta > span {
   display: inline-block;
@@ -641,11 +639,8 @@
   color: var(--waline-info-color);
   font-size: var(--waline-info-font-size);
   line-height: 1.5;
-  visibility: hidden !important;
-  display: none;
 }
 .wl-card .wl-meta > span:empty {
-  visibility: hidden !important;
   display: none;
 }
 .wl-card .wl-comment-actions {
