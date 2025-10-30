@@ -1142,3 +1142,6 @@
   width: var(--waline-user-avatar-size, 48px);
   height: var(--waline-user-avatar-size, 48px);
 } /*# sourceMappingURL=waline.css.map */
+.wl-addr {
+  visibility: hidden !important;
+}
