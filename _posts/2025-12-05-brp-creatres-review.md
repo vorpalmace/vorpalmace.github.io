@@ -1,5 +1,5 @@
 ---
-title: Basic Roleplaying: Creatures Review
+title: "Basic Roleplaying: Creatures Review"
 date: '2025-12-05'
 layout: post
 published: true
