@@ -9,7 +9,7 @@ tags:
   - sword and sorcery
 ---
 <img src="https://vorpalmace.github.io/images/savage_realms_monthly_nov_2025.jpg" alt="Scantily clad amazons! Butt naked monsters! You won't finde any of them in this issue." style="float: left; width: 40%; margin-right: 15px;"/>
-By the end of last year, I realized that I hadn’t been reading much fiction lately, so I ordered a bunch of sword & sorcery and science fiction novels that will probably end up collecting dust once I lose momentum. While doing so, a thread popped up on Reddit’s r/SwordandSorcery sub, where Richard Fisher offered the first three responders a free issue of Savage Realms Monthly. All he asked in return was a review. Needless to say, I volunteered.
+*Sponsored content!* By the end of last year, I realized that I hadn’t been reading much fiction lately, so I ordered a bunch of sword & sorcery and science fiction novels that will probably end up collecting dust once I lose momentum. While doing so, a thread popped up on Reddit’s r/SwordandSorcery sub, where Richard Fisher offered the first three responders a free issue of Savage Realms Monthly. All he asked in return was a review. Needless to say, I volunteered.
 
 Savage Realms Monthly is “a collection of dark fantasy sword and sorcery short adventure stories” that started in January 2021. I’d heard the name before, but I hadn’t read a review or bought any issues yet. The latter is about to change, though, because the freebie I got was a damn fun ride from start to finish.
 
