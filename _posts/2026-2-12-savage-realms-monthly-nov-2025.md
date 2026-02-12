@@ -1,8 +1,8 @@
 ---
 title: "Savage Realms Monthly: November 2025"
-date: '2026-02-13'
+date: '2026-02-12'
 layout: post
-published: false
+published: true
 tags:
   - review
   - magazine
