@@ -1151,3 +1151,7 @@
   display: table;
   clear: both;
 }
+.post img {
+  max-width: 30%;
+  height: auto;
+}
