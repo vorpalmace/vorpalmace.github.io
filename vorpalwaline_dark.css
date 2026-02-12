@@ -1146,3 +1146,8 @@
   visibility: hidden !important;
   display: none;
 }
+.post::after {
+  content: "";
+  display: table;
+  clear: both;
+}
