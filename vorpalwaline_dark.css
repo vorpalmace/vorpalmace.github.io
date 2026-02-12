@@ -1151,7 +1151,7 @@
   display: table;
   clear: both;
 }
-.post img {
+.entry img {
   max-width: 30%;
   height: auto;
 }
