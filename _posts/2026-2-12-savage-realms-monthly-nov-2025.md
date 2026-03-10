@@ -1,5 +1,5 @@
 ---
-title: "Savage Realms Monthly: November 2025"
+title: "Savage Realms Monthly: November 2025 Review"
 date: '2026-02-12'
 layout: post
 published: true
