@@ -42,4 +42,4 @@ The book is available on [DriveThruRPG](https://www.drivethrurpg.com/en/product/
 
 [^1]: While I’m normally not fan of “frozen in time” encounters, it totally fits the Moon. Cycles and stasis seem to be a recurring topic throughout the book.
 
-[^2]: Tons of cosmic entities! Not just planar beings, 
+[^2]: Tons of cosmic entities! Not just planar beings, but a Mary Sue eternal champion, interstellar travellers, and deities.
