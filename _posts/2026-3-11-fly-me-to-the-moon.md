@@ -2,7 +2,7 @@
 title: "Fly Me to the Moon Review"
 date: '2026-03-11'
 layout: post
-published: false
+published: true
 tags:
   - osr
   - review
